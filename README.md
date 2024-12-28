@@ -75,3 +75,6 @@ Our teaching assistants (TAs) are here to help in this course. Meet the team:
 - **Mohammad Azim Saraji** [Head TA] (m.azim.saraji@gmail.com)
 
 ---
+
+Thank you for visiting our repository. 🚀✨
+
