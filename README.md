@@ -16,29 +16,40 @@ This repository is your go-to resource for assignments, projects, and course mat
 
 ## 📁 Homeworks
 
-Stay on top of your assignments! Links to each homework are provided below:  
+
 - [Homework 1](Homeworks/HW1.pdf)  
 - [Homework 2](Homeworks/HW2.pdf)  
 - [Homework 3](Homeworks/HW3.pdf)  
 - [Homework 4](Homeworks/HW4.pdf)  
 - [Homework 5](Homeworks/HW5.pdf)  
 
+
 ---
 
 ## 📝 Homework Answers
 
-Detailed solutions and explanations for each homework will be available here.  
+- [Homework 1 Answer](HomeworkAnswers/HWA1.pdf)  
+- [Homework 2 Answer](HomeworkAnswers/HWA2.pdf)  
+- [Homework 3 Answer](HomeworkAnswers/HWA3.pdf)  
+- [Homework 4 Answer](HomeworkAnswers/HWA4.pdf)  
+- [Homework 5 Answer](HomeworkAnswers/HWA5.pdf)
 
+  
 ---
 
 ## 💡 Projects
 
-Explore various projects to apply your knowledge and hone your problem-solving skills. Details coming soon!  
+- [Project 1](Projects/P1.pdf)
+- [Project 2](Projects/P2.pdf)  
+- [Project 3](Projects/P3.pdf)  
+- [Project 4](Projects/P4.pdf)  
+- [Project 5](Projects/P5.pdf)  
+
 
 ---
 
 ## 🚀 Final Project
 
-The final project will challenge your understanding and creativity. Stay tuned for announcements and guidelines.  
-
+- [Final Project](FinalProject/FinalProject.pdf)
+  
 ---
