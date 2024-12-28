@@ -54,8 +54,7 @@ The projects files are available below:
 ---
 
 ## 👨‍🏫 Instructors
-
-Our dedicated course instructors are here to guide you through the semester:  
+  
 - **Dr. Shahram Golzari** ( golzari@hormozgan.ac.ir )  
 - **Eng. Parisa Zarei**  
 
@@ -63,7 +62,7 @@ Our dedicated course instructors are here to guide you through the semester:
 
 ## 👩‍🏫 Teaching Assistants
 
-Our wonderful teaching assistants (TAs) are here to help you succeed in this course. Meet the team:  
+Our teaching assistants (TAs) are here to help in this course. Meet the team:  
 - **Sajjad Mohammad Hoseini Zadeh** (sajjadmohammadhoseinizadeh@gmail.com)  
 - **Alireza Dalir** (alirezad4583@gmail.com)  
 - **Amir Shakibafar** (amir.shakibafar82@gmail.com)  
