@@ -68,5 +68,3 @@ Our dedicated teaching assistants (TAs) are here to help in this course. Meet th
 - Mohammad Azim Saraji [Head TA] ( m.azim.saraji@gmail.com )
 
 ---
-
-Happy learning and coding! 💻🚀  
