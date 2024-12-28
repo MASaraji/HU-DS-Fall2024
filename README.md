@@ -53,18 +53,26 @@ The projects files are available below:
 
 ---
 
+## 👨‍🏫 Instructors
+
+Our dedicated course instructors are here to guide you through the semester:  
+- **Dr. Shahram Golzari** ( golzari@hormozgan.ac.ir )  
+- **Eng. Parisa Zarei**  
+
+---
+
 ## 👩‍🏫 Teaching Assistants
 
-Our dedicated teaching assistants (TAs) are here to help in this course. Meet the team: 
-- Sajjad Mohammad Hoseini Zadeh ( sajjadmohammadhoseinizadeh@gmail.com )
-- Alireza Dalir ( alirezad4583@gmail.com )
-- Amir Shakibafar ( amir.shakibafar82@gmail.com )
-- Yasin Mohammadi ( mohammadiyasin2003@gmail.com )
-- Alireza Anoosheh ( alianoosheh1999@gmail.com )
-- Alireza Keshavarz ( alireza.keshavarz.d@gmail.com )
-- Helia Attar ( )
-- Fatemeh Ghorbanizadeh ( fatemeh.gs.279@gmail.com )
-- Mohammad Moeini ( mohammadmoeini711@gmail.com )
-- Mohammad Azim Saraji [Head TA] ( m.azim.saraji@gmail.com )
+Our wonderful teaching assistants (TAs) are here to help you succeed in this course. Meet the team:  
+- **Sajjad Mohammad Hoseini Zadeh** (sajjadmohammadhoseinizadeh@gmail.com)  
+- **Alireza Dalir** (alirezad4583@gmail.com)  
+- **Amir Shakibafar** (amir.shakibafar82@gmail.com)  
+- **Yasin Mohammadi** (mohammadiyasin2003@gmail.com)  
+- **Alireza Anoosheh** (alianoosheh1999@gmail.com)  
+- **Alireza Keshavarz** (alireza.keshavarz.d@gmail.com)  
+- **Helia Attar**  
+- **Fatemeh Ghorbanizadeh** (fatemeh.gs.279@gmail.com)  
+- **Mohammad Moeini** (mohammadmoeini711@gmail.com)  
+- **Mohammad Azim Saraji** [Head TA] (m.azim.saraji@gmail.com)
 
 ---
